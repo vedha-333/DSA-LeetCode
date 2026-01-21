@@ -53,3 +53,11 @@ Feel free to explore and suggest improvements.
 ---
 
 ⭐ If you find this repository helpful, consider giving it a star!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/vedha-333/DSA-LeetCode/tree/master/0507-perfect-number) |
+<!---LeetCode Topics End-->
