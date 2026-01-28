@@ -59,9 +59,18 @@ Feel free to explore and suggest improvements.
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/vedha-333/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/vedha-333/DSA-LeetCode/tree/master/0507-perfect-number) |
 ## Array
 |  |
 | ------- |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vedha-333/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vedha-333/DSA-LeetCode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vedha-333/DSA-LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
