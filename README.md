@@ -60,6 +60,7 @@ Feel free to explore and suggest improvements.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vedha-333/DSA-LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/vedha-333/DSA-LeetCode/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/vedha-333/DSA-LeetCode/tree/master/0507-perfect-number) |
 ## Array
 |  |
@@ -73,4 +74,5 @@ Feel free to explore and suggest improvements.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vedha-333/DSA-LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/vedha-333/DSA-LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
