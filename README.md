@@ -85,9 +85,26 @@ Feel free to explore and suggest improvements.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0148-sort-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0344-reverse-string) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
