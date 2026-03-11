@@ -65,6 +65,7 @@ Feel free to explore and suggest improvements.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vedha-333/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -86,6 +87,7 @@ Feel free to explore and suggest improvements.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vedha-333/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0148-sort-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0148-sort-list) |
@@ -119,4 +121,8 @@ Feel free to explore and suggest improvements.
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vedha-333/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
