@@ -96,6 +96,7 @@ Feel free to explore and suggest improvements.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vedha-333/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/vedha-333/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0344-reverse-string) |
 ## Linked List
@@ -118,10 +119,12 @@ Feel free to explore and suggest improvements.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vedha-333/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vedha-333/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Greedy
 |  |
