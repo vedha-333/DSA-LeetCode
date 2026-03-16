@@ -5,7 +5,7 @@ class Solution {
         int minCount = Integer.MAX_VALUE;
 
         for (int right = 0 ; right < nums.length ; right++){
-            sum += nums[right]; // window expand right 
+            sum += nums[right]; // window expand right side 
 
             while (sum >= target){
                 minCount = Math.min(minCount , right - left +1 );// the subarray size // min 
