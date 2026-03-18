@@ -91,6 +91,7 @@ Feel free to explore and suggest improvements.
 | ------- |
 | [0011-container-with-most-water](https://github.com/vedha-333/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vedha-333/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0148-sort-list) |
@@ -106,6 +107,7 @@ Feel free to explore and suggest improvements.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
