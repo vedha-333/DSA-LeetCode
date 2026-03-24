@@ -71,6 +71,7 @@ Feel free to explore and suggest improvements.
 | [0209-minimum-size-subarray-sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0912-sort-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vedha-333/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Bit Manipulation
@@ -117,16 +118,19 @@ Feel free to explore and suggest improvements.
 | ------- |
 | [0148-sort-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,8 +156,21 @@ Feel free to explore and suggest improvements.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
