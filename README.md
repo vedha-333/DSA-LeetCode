@@ -68,6 +68,7 @@ Feel free to explore and suggest improvements.
 | [0011-container-with-most-water](https://github.com/vedha-333/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0090-subsets-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -77,6 +78,7 @@ Feel free to explore and suggest improvements.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/vedha-333/DSA-LeetCode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -173,4 +175,8 @@ Feel free to explore and suggest improvements.
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0912-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
