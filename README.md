@@ -59,6 +59,7 @@ Feel free to explore and suggest improvements.
 ## Math
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/vedha-333/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vedha-333/DSA-LeetCode/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/vedha-333/DSA-LeetCode/tree/master/0507-perfect-number) |
@@ -107,6 +108,7 @@ Feel free to explore and suggest improvements.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vedha-333/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/vedha-333/DSA-LeetCode/tree/master/0125-valid-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 ## Linked List
@@ -179,4 +181,8 @@ Feel free to explore and suggest improvements.
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0090-subsets-ii) |
+## Stack
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
