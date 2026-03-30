@@ -185,4 +185,13 @@ Feel free to explore and suggest improvements.
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/vedha-333/DSA-LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vedha-333/DSA-LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vedha-333/DSA-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
