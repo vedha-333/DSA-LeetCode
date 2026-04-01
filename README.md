@@ -91,6 +91,7 @@ Feel free to explore and suggest improvements.
 | [0143-reorder-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/vedha-333/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vedha-333/DSA-LeetCode/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0394-decode-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -115,6 +116,7 @@ Feel free to explore and suggest improvements.
 | [0125-valid-palindrome](https://github.com/vedha-333/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0394-decode-string) |
 | [0567-permutation-in-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
@@ -195,6 +197,7 @@ Feel free to explore and suggest improvements.
 | [0143-reorder-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0143-reorder-list) |
 | [0227-basic-calculator-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/vedha-333/DSA-LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0394-decode-string) |
 ## Design
 |  |
 | ------- |
