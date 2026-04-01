@@ -59,6 +59,7 @@ Feel free to explore and suggest improvements.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vedha-333/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0227-basic-calculator-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/vedha-333/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vedha-333/DSA-LeetCode/tree/master/0326-power-of-three) |
@@ -84,6 +85,7 @@ Feel free to explore and suggest improvements.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vedha-333/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vedha-333/DSA-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/vedha-333/DSA-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/vedha-333/DSA-LeetCode/tree/master/0231-power-of-two) |
@@ -115,6 +117,7 @@ Feel free to explore and suggest improvements.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vedha-333/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/vedha-333/DSA-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/vedha-333/DSA-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
