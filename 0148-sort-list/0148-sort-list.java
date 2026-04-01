@@ -20,12 +20,12 @@ class Solution {
 
         Collections.sort(list);
 
+        int i = 0 ;
         temp = head ;
-        int i =0;
         while (temp != null){
             temp.val = list.get(i++);
-            temp = temp.next;
+            temp = temp.next ;
         }
-        return head ;
+        return head;
     }
 }
