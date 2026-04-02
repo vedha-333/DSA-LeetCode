@@ -1,14 +1,16 @@
 class Solution {
-    public int leastInterval(char[] tasks, int cooldown) {
+    public int leastInterval(char[] tasks, int n) {
         int[] frequency = new int[26];
-        int maxFrequency = 0, maxFrequencyCount = 0;
+        int maxfrequency = 0 , maxfrequencyCount = 0 ;
 
-        for (char task : tasks)
-            maxFrequency = Math.max(maxFrequency, ++frequency[task - 'A']);
+        for (char task : tasks ){
+            maxfrequency = Math.max(maxfrequency , ++frequency[task - 'A']);
+        }
 
-        for (int freq : frequency)
-            maxFrequencyCount += freq == maxFrequency ? 1 : 0;
+        for (int freq : frequency ){
+            maxfrequencyCount += freq == maxfrequency ? 1 : 0;
+        }
 
-        return Math.max(tasks.length, (maxFrequency - 1) * (cooldown + 1) + maxFrequencyCount);
+        return Math.max(tasks.length , (maxfrequency -1) * (n + 1) + maxfrequencyCount );
     }
 }
