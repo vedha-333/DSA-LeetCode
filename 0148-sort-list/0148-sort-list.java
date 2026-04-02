@@ -15,12 +15,12 @@ class Solution {
 
         while (temp != null){
             list.add(temp.val);
-            temp = temp.next;
+            temp = temp.next ;
         }
 
         Collections.sort(list);
 
-        int i = 0 ;
+        int i =0 ;
         temp = head ;
         while (temp != null){
             temp.val = list.get(i++);
