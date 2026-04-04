@@ -218,6 +218,7 @@ Feel free to explore and suggest improvements.
 | [0102-binary-tree-level-order-traversal](https://github.com/vedha-333/DSA-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vedha-333/DSA-LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -230,8 +231,10 @@ Feel free to explore and suggest improvements.
 | [0102-binary-tree-level-order-traversal](https://github.com/vedha-333/DSA-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vedha-333/DSA-LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
