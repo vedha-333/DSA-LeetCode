@@ -70,6 +70,7 @@ Feel free to explore and suggest improvements.
 | [0011-container-with-most-water](https://github.com/vedha-333/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/vedha-333/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0090-subsets-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -114,6 +115,7 @@ Feel free to explore and suggest improvements.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vedha-333/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/vedha-333/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/vedha-333/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0344-reverse-string) |
@@ -138,6 +140,7 @@ Feel free to explore and suggest improvements.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/vedha-333/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/vedha-333/DSA-LeetCode/tree/master/0621-task-scheduler) |
@@ -151,6 +154,7 @@ Feel free to explore and suggest improvements.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vedha-333/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/vedha-333/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/vedha-333/DSA-LeetCode/tree/master/0621-task-scheduler) |
