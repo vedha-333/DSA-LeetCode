@@ -75,6 +75,7 @@ Feel free to explore and suggest improvements.
 | [0209-minimum-size-subarray-sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/vedha-333/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vedha-333/DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -135,6 +136,7 @@ Feel free to explore and suggest improvements.
 | ------- |
 | [0148-sort-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vedha-333/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -143,6 +145,7 @@ Feel free to explore and suggest improvements.
 | [0049-group-anagrams](https://github.com/vedha-333/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vedha-333/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vedha-333/DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0912-sort-an-array) |
 ## Merge Sort
@@ -156,6 +159,7 @@ Feel free to explore and suggest improvements.
 | [0003-longest-substring-without-repeating-characters](https://github.com/vedha-333/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/vedha-333/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/vedha-333/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/vedha-333/DSA-LeetCode/tree/master/0621-task-scheduler) |
 ## Sliding Window
@@ -178,15 +182,18 @@ Feel free to explore and suggest improvements.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vedha-333/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vedha-333/DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vedha-333/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vedha-333/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -195,6 +202,7 @@ Feel free to explore and suggest improvements.
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vedha-333/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vedha-333/DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0912-sort-an-array) |
 ## Backtracking
