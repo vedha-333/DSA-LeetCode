@@ -77,6 +77,7 @@ Feel free to explore and suggest improvements.
 | [0219-contains-duplicate-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vedha-333/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vedha-333/DSA-LeetCode/tree/master/0621-task-scheduler) |
+| [0706-design-hashmap](https://github.com/vedha-333/DSA-LeetCode/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vedha-333/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -131,6 +132,7 @@ Feel free to explore and suggest improvements.
 | [0024-swap-nodes-in-pairs](https://github.com/vedha-333/DSA-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0148-sort-list) |
+| [0706-design-hashmap](https://github.com/vedha-333/DSA-LeetCode/tree/master/0706-design-hashmap) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -162,6 +164,7 @@ Feel free to explore and suggest improvements.
 | [0347-top-k-frequent-elements](https://github.com/vedha-333/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/vedha-333/DSA-LeetCode/tree/master/0621-task-scheduler) |
+| [0706-design-hashmap](https://github.com/vedha-333/DSA-LeetCode/tree/master/0706-design-hashmap) |
 ## Sliding Window
 |  |
 | ------- |
@@ -220,6 +223,7 @@ Feel free to explore and suggest improvements.
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/vedha-333/DSA-LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0706-design-hashmap](https://github.com/vedha-333/DSA-LeetCode/tree/master/0706-design-hashmap) |
 ## Queue
 |  |
 | ------- |
@@ -249,4 +253,8 @@ Feel free to explore and suggest improvements.
 | ------- |
 | [0226-invert-binary-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/vedha-333/DSA-LeetCode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
