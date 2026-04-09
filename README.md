@@ -70,6 +70,7 @@ Feel free to explore and suggest improvements.
 | [0011-container-with-most-water](https://github.com/vedha-333/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/vedha-333/DSA-LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/vedha-333/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0090-subsets-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/vedha-333/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -161,6 +162,7 @@ Feel free to explore and suggest improvements.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vedha-333/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/vedha-333/DSA-LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/vedha-333/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/vedha-333/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/vedha-333/DSA-LeetCode/tree/master/0146-lru-cache) |
