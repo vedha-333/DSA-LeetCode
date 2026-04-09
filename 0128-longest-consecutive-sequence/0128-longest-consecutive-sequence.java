@@ -3,16 +3,18 @@ class Solution {
         HashSet<Integer> set = new HashSet<>();
         for (int n : nums) set.add(n);
 
-        int longest = 0 ;
+        int longest = 0 ; 
         for (int n : set){
-            if(!set.contains( n-1)){
-                int current = n , count = 1;
+            if(!set.contains(n-1)){
+                int current = n , count = 1 ;
+
                 while (set.contains(current + 1)){
-                    current++ ;
+                    current++;
                     count++;
-                    }
-            longest = Math.max(longest , count);
-        }}
+                }
+                longest = Math.max(longest , count);
+            }
+        }
         return longest ;
     }
 }
