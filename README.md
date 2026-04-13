@@ -120,6 +120,7 @@ Feel free to explore and suggest improvements.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vedha-333/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/vedha-333/DSA-LeetCode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/vedha-333/DSA-LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/vedha-333/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0344-reverse-string) |
@@ -222,6 +223,7 @@ Feel free to explore and suggest improvements.
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/vedha-333/DSA-LeetCode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0143-reorder-list) |
 | [0227-basic-calculator-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/vedha-333/DSA-LeetCode/tree/master/0232-implement-queue-using-stacks) |
