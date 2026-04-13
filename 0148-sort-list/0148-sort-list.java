@@ -11,21 +11,23 @@
 class Solution {
     public ListNode sortList(ListNode head) {
         ArrayList<Integer> list = new ArrayList<>();
+
         ListNode temp = head ;
 
-        while (temp != null){
+        while(temp != null){
             list.add(temp.val);
-            temp = temp.next ;
+            temp = temp.next;
         }
 
         Collections.sort(list);
 
-        int i =0 ;
+        int i = 0 ;
         temp = head ;
-        while (temp != null){
+        while(temp != null){
             temp.val = list.get(i++);
-            temp = temp.next ;
+            temp = temp.next;
         }
+
         return head;
     }
 }
