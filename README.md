@@ -115,6 +115,7 @@ Feel free to explore and suggest improvements.
 | [0148-sort-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0567-permutation-in-string) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -138,6 +139,7 @@ Feel free to explore and suggest improvements.
 | [0146-lru-cache](https://github.com/vedha-333/DSA-LeetCode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0706-design-hashmap](https://github.com/vedha-333/DSA-LeetCode/tree/master/0706-design-hashmap) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
