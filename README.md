@@ -247,6 +247,7 @@ Feel free to explore and suggest improvements.
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vedha-333/DSA-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vedha-333/DSA-LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -261,6 +262,7 @@ Feel free to explore and suggest improvements.
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vedha-333/DSA-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vedha-333/DSA-LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -269,6 +271,7 @@ Feel free to explore and suggest improvements.
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -288,4 +291,8 @@ Feel free to explore and suggest improvements.
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
