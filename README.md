@@ -254,6 +254,7 @@ Feel free to explore and suggest improvements.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vedha-333/DSA-LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -275,6 +276,7 @@ Feel free to explore and suggest improvements.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vedha-333/DSA-LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -286,6 +288,7 @@ Feel free to explore and suggest improvements.
 | [0099-recover-binary-search-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -310,6 +313,7 @@ Feel free to explore and suggest improvements.
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
