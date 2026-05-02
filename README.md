@@ -131,6 +131,7 @@ Feel free to explore and suggest improvements.
 | [0227-basic-calculator-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0394-decode-string) |
+| [0449-serialize-and-deserialize-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0567-permutation-in-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
@@ -245,6 +246,7 @@ Feel free to explore and suggest improvements.
 | ------- |
 | [0146-lru-cache](https://github.com/vedha-333/DSA-LeetCode/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/vedha-333/DSA-LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0449-serialize-and-deserialize-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0706-design-hashmap](https://github.com/vedha-333/DSA-LeetCode/tree/master/0706-design-hashmap) |
 ## Queue
 |  |
@@ -260,6 +262,7 @@ Feel free to explore and suggest improvements.
 | [0226-invert-binary-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -274,6 +277,7 @@ Feel free to explore and suggest improvements.
 | [0133-clone-graph](https://github.com/vedha-333/DSA-LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/vedha-333/DSA-LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vedha-333/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vedha-333/DSA-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -287,6 +291,7 @@ Feel free to explore and suggest improvements.
 | [0226-invert-binary-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -302,6 +307,7 @@ Feel free to explore and suggest improvements.
 | [0226-invert-binary-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vedha-333/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -330,6 +336,7 @@ Feel free to explore and suggest improvements.
 | [0099-recover-binary-search-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
