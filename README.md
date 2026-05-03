@@ -281,6 +281,7 @@ Feel free to explore and suggest improvements.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vedha-333/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/vedha-333/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/vedha-333/DSA-LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vedha-333/DSA-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -313,6 +314,7 @@ Feel free to explore and suggest improvements.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vedha-333/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/vedha-333/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/vedha-333/DSA-LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vedha-333/DSA-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Hash Function
 |  |
@@ -349,9 +351,14 @@ Feel free to explore and suggest improvements.
 | ------- |
 | [0133-clone-graph](https://github.com/vedha-333/DSA-LeetCode/tree/master/0133-clone-graph) |
 | [0785-is-graph-bipartite](https://github.com/vedha-333/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/vedha-333/DSA-LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vedha-333/DSA-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vedha-333/DSA-LeetCode/tree/master/0200-number-of-islands) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/vedha-333/DSA-LeetCode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
