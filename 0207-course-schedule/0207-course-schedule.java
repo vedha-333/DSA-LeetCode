@@ -1,65 +1,41 @@
 class Solution {
-
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-
-        // adjacency list
         List<Integer>[] graph = new ArrayList[numCourses];
-
-        for (int i = 0; i < numCourses; i++) {
+        for (int i = 0 ;  i < numCourses ; i++){
             graph[i] = new ArrayList<>();
         }
 
-        // build graph
-        for (int[] p : prerequisites) {
-
+        for (int[] p : prerequisites){
             int course = p[0];
-            int prereq = p[1];
-
-            graph[prereq].add(course);
+            int preq = p[1];
+            graph[preq].add(course);
         }
 
-        // 0 = unvisited
-        // 1 = visiting
-        // 2 = visited
         int[] state = new int[numCourses];
-
-        // check every course
-        for (int i = 0; i < numCourses; i++) {
-
-            if (!dfs(graph, state, i)) {
-                return false;
+        for (int i = 0 ; i < numCourses ; i++){
+            if (!dfs(graph , state , i)){
+                return false ;
             }
         }
-
-        return true;
+        return true ;
     }
 
-    private boolean dfs(List<Integer>[] graph, int[] state, int node) {
-
-        // cycle found
-        if (state[node] == 1) {
-            return false;
+    public boolean dfs(List<Integer>[] graph , int[] state , int node ){
+        if (state[node] == 1){
+            return false ;
+        }
+        if (state[node] == 2){
+            return true ;
         }
 
-        // already processed
-        if (state[node] == 2) {
-            return true;
+        state[node] = 1 ;
+
+        for (int neighbour : graph[node]){
+            if (!dfs(graph , state , neighbour)) return false ;
         }
 
-        // mark visiting
-        state[node] = 1;
+        state[node] = 2 ;
 
-        // visit neighbors
-        for (int nei : graph[node]) {
-
-            if (!dfs(graph, state, nei)) {
-                return false;
-            }
-        }
-
-        // mark visited
-        state[node] = 2;
-
-        return true;
+        return true ;
     }
 }
