@@ -23,14 +23,14 @@ class Solution {
 
     public void inOrder(TreeNode root ){
         if (root == null) return ;
-
         inOrder(root.left);
 
-        if (prev != null){
-            min = Math.min (min , root.val - prev);
+        if (prev!= null){
+            min = Math.min(min ,  root.val - prev);
         }
 
         prev = root.val ;
+
         inOrder(root.right);
     }
 }
