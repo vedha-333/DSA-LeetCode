@@ -81,6 +81,7 @@ Feel free to explore and suggest improvements.
 | [0347-top-k-frequent-elements](https://github.com/vedha-333/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vedha-333/DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [0706-design-hashmap](https://github.com/vedha-333/DSA-LeetCode/tree/master/0706-design-hashmap) |
+| [0896-monotonic-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vedha-333/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
