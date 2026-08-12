@@ -60,6 +60,7 @@ Feel free to explore and suggest improvements.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vedha-333/DSA-LeetCode/tree/master/0002-add-two-numbers) |
+| [0204-count-primes](https://github.com/vedha-333/DSA-LeetCode/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/vedha-333/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vedha-333/DSA-LeetCode/tree/master/0326-power-of-three) |
@@ -75,6 +76,7 @@ Feel free to explore and suggest improvements.
 | [0090-subsets-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/vedha-333/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/vedha-333/DSA-LeetCode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/vedha-333/DSA-LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -366,4 +368,24 @@ Feel free to explore and suggest improvements.
 | ------- |
 | [0207-course-schedule](https://github.com/vedha-333/DSA-LeetCode/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/vedha-333/DSA-LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vedha-333/DSA-LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vedha-333/DSA-LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vedha-333/DSA-LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vedha-333/DSA-LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vedha-333/DSA-LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
