@@ -80,6 +80,7 @@ Feel free to explore and suggest improvements.
 | [0209-minimum-size-subarray-sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vedha-333/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vedha-333/DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [0706-design-hashmap](https://github.com/vedha-333/DSA-LeetCode/tree/master/0706-design-hashmap) |
@@ -165,6 +166,7 @@ Feel free to explore and suggest improvements.
 | [0049-group-anagrams](https://github.com/vedha-333/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vedha-333/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vedha-333/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vedha-333/DSA-LeetCode/tree/master/0621-task-scheduler) |
@@ -185,6 +187,7 @@ Feel free to explore and suggest improvements.
 | [0133-clone-graph](https://github.com/vedha-333/DSA-LeetCode/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/vedha-333/DSA-LeetCode/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vedha-333/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vedha-333/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0567-permutation-in-string) |
@@ -231,6 +234,7 @@ Feel free to explore and suggest improvements.
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vedha-333/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vedha-333/DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0912-sort-an-array) |
@@ -391,4 +395,8 @@ Feel free to explore and suggest improvements.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vedha-333/DSA-LeetCode/tree/master/0204-count-primes) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
