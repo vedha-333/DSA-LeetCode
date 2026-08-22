@@ -87,6 +87,7 @@ Feel free to explore and suggest improvements.
 | [0724-find-pivot-index](https://github.com/vedha-333/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/vedha-333/DSA-LeetCode/tree/master/0994-rotting-oranges) |
 | [1480-running-sum-of-1d-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vedha-333/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Bit Manipulation
@@ -295,6 +296,7 @@ Feel free to explore and suggest improvements.
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vedha-333/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/vedha-333/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/vedha-333/DSA-LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [0994-rotting-oranges](https://github.com/vedha-333/DSA-LeetCode/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vedha-333/DSA-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -372,6 +374,7 @@ Feel free to explore and suggest improvements.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vedha-333/DSA-LeetCode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/vedha-333/DSA-LeetCode/tree/master/0994-rotting-oranges) |
 ## Topological Sort
 |  |
 | ------- |
