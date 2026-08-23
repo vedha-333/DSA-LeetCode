@@ -292,6 +292,7 @@ Feel free to explore and suggest improvements.
 | [0207-course-schedule](https://github.com/vedha-333/DSA-LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0547-number-of-provinces](https://github.com/vedha-333/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vedha-333/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/vedha-333/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
@@ -327,6 +328,7 @@ Feel free to explore and suggest improvements.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/vedha-333/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/vedha-333/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vedha-333/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/vedha-333/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
@@ -341,6 +343,7 @@ Feel free to explore and suggest improvements.
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vedha-333/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/vedha-333/DSA-LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/vedha-333/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/vedha-333/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vedha-333/DSA-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Doubly-Linked List
@@ -367,6 +370,7 @@ Feel free to explore and suggest improvements.
 | ------- |
 | [0133-clone-graph](https://github.com/vedha-333/DSA-LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/vedha-333/DSA-LeetCode/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/vedha-333/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/vedha-333/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/vedha-333/DSA-LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vedha-333/DSA-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
