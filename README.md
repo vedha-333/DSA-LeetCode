@@ -73,6 +73,7 @@ Feel free to explore and suggest improvements.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/vedha-333/DSA-LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/vedha-333/DSA-LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/vedha-333/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0090-subsets-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/vedha-333/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/vedha-333/DSA-LeetCode/tree/master/0200-number-of-islands) |
@@ -158,6 +159,7 @@ Feel free to explore and suggest improvements.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vedha-333/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vedha-333/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -353,6 +355,7 @@ Feel free to explore and suggest improvements.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vedha-333/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
