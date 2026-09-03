@@ -4,17 +4,19 @@ class Solution {
         int countSum = 0 ;
 
         for (int i = 0 ; i < nums.length ; i++){
-            countSum += nums[i] ;
-            if (countSum > sum){
+            countSum += nums[i];
+
+            if (sum < countSum ){
                 sum = countSum ;
             }
 
-            if (countSum < 0){
+            if (countSum < 0 ){
                 countSum = 0 ;
             }
+
         }
 
+
         return sum ;
-        
     }
 }
