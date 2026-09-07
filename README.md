@@ -86,6 +86,7 @@ Feel free to explore and suggest improvements.
 | [0621-task-scheduler](https://github.com/vedha-333/DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [0706-design-hashmap](https://github.com/vedha-333/DSA-LeetCode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/vedha-333/DSA-LeetCode/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/vedha-333/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/vedha-333/DSA-LeetCode/tree/master/0994-rotting-oranges) |
@@ -215,6 +216,7 @@ Feel free to explore and suggest improvements.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0875-koko-eating-bananas](https://github.com/vedha-333/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
