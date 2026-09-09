@@ -63,6 +63,7 @@ Feel free to explore and suggest improvements.
 | [0204-count-primes](https://github.com/vedha-333/DSA-LeetCode/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/vedha-333/DSA-LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/vedha-333/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/vedha-333/DSA-LeetCode/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/vedha-333/DSA-LeetCode/tree/master/0507-perfect-number) |
 ## Array
@@ -82,6 +83,7 @@ Feel free to explore and suggest improvements.
 | [0215-kth-largest-element-in-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/vedha-333/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vedha-333/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vedha-333/DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [0706-design-hashmap](https://github.com/vedha-333/DSA-LeetCode/tree/master/0706-design-hashmap) |
@@ -97,6 +99,7 @@ Feel free to explore and suggest improvements.
 | ------- |
 | [0090-subsets-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/vedha-333/DSA-LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/vedha-333/DSA-LeetCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -174,6 +177,7 @@ Feel free to explore and suggest improvements.
 | [0215-kth-largest-element-in-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vedha-333/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/vedha-333/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vedha-333/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vedha-333/DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0912-sort-an-array) |
@@ -195,6 +199,7 @@ Feel free to explore and suggest improvements.
 | [0219-contains-duplicate-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vedha-333/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/vedha-333/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vedha-333/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/vedha-333/DSA-LeetCode/tree/master/0621-task-scheduler) |
@@ -216,6 +221,7 @@ Feel free to explore and suggest improvements.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/vedha-333/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/vedha-333/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Heap (Priority Queue)
 |  |
