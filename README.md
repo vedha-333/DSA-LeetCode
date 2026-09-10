@@ -77,6 +77,7 @@ Feel free to explore and suggest improvements.
 | [0053-maximum-subarray](https://github.com/vedha-333/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0090-subsets-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/vedha-333/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/vedha-333/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/vedha-333/DSA-LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/vedha-333/DSA-LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -368,6 +369,7 @@ Feel free to explore and suggest improvements.
 | ------- |
 | [0053-maximum-subarray](https://github.com/vedha-333/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/vedha-333/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vedha-333/DSA-LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Search Tree
 |  |
