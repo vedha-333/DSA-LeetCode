@@ -82,6 +82,7 @@ Feel free to explore and suggest improvements.
 | [0204-count-primes](https://github.com/vedha-333/DSA-LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/vedha-333/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/vedha-333/DSA-LeetCode/tree/master/0268-missing-number) |
@@ -178,6 +179,7 @@ Feel free to explore and suggest improvements.
 | [0049-group-anagrams](https://github.com/vedha-333/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/vedha-333/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vedha-333/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vedha-333/DSA-LeetCode/tree/master/0268-missing-number) |
@@ -199,6 +201,7 @@ Feel free to explore and suggest improvements.
 | [0128-longest-consecutive-sequence](https://github.com/vedha-333/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/vedha-333/DSA-LeetCode/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/vedha-333/DSA-LeetCode/tree/master/0146-lru-cache) |
+| [0217-contains-duplicate](https://github.com/vedha-333/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vedha-333/DSA-LeetCode/tree/master/0242-valid-anagram) |
