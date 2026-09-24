@@ -110,6 +110,7 @@ Feel free to explore and suggest improvements.
 | [0021-merge-two-sorted-lists](https://github.com/vedha-333/DSA-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/vedha-333/DSA-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/vedha-333/DSA-LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/vedha-333/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/vedha-333/DSA-LeetCode/tree/master/0326-power-of-three) |
@@ -160,6 +161,7 @@ Feel free to explore and suggest improvements.
 | [0143-reorder-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/vedha-333/DSA-LeetCode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/vedha-333/DSA-LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0706-design-hashmap](https://github.com/vedha-333/DSA-LeetCode/tree/master/0706-design-hashmap) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
