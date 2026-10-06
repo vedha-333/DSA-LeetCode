@@ -72,6 +72,7 @@ Feel free to explore and suggest improvements.
 | [0011-container-with-most-water](https://github.com/vedha-333/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0039-combination-sum](https://github.com/vedha-333/DSA-LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/vedha-333/DSA-LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/vedha-333/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vedha-333/DSA-LeetCode/tree/master/0053-maximum-subarray) |
@@ -263,6 +264,7 @@ Feel free to explore and suggest improvements.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/vedha-333/DSA-LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0090-subsets-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0090-subsets-ii) |
 ## Stack
 | Problem Name | Difficulty |
