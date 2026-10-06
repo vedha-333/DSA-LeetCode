@@ -83,6 +83,7 @@ Feel free to explore and suggest improvements.
 | [0204-count-primes](https://github.com/vedha-333/DSA-LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/vedha-333/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/vedha-333/DSA-LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/vedha-333/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0229-majority-element-ii) |
@@ -266,6 +267,7 @@ Feel free to explore and suggest improvements.
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/vedha-333/DSA-LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0090-subsets-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/vedha-333/DSA-LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
