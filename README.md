@@ -76,6 +76,7 @@ Feel free to explore and suggest improvements.
 | [0041-first-missing-positive](https://github.com/vedha-333/DSA-LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/vedha-333/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vedha-333/DSA-LeetCode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/vedha-333/DSA-LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/vedha-333/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/vedha-333/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -102,6 +103,7 @@ Feel free to explore and suggest improvements.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/vedha-333/DSA-LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/vedha-333/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vedha-333/DSA-LeetCode/tree/master/0268-missing-number) |
@@ -266,6 +268,7 @@ Feel free to explore and suggest improvements.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/vedha-333/DSA-LeetCode/tree/main/0039-combination-sum/) | Medium |
+| [0078-subsets](https://github.com/vedha-333/DSA-LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/vedha-333/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/vedha-333/DSA-LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 ## Stack
