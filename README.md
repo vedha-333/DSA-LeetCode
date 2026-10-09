@@ -139,6 +139,7 @@ Feel free to explore and suggest improvements.
 | [0344-reverse-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0844-backspace-string-compare](https://github.com/vedha-333/DSA-LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 | Problem Name | Difficulty |
@@ -154,6 +155,7 @@ Feel free to explore and suggest improvements.
 | [0394-decode-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0394-decode-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0567-permutation-in-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/vedha-333/DSA-LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -280,6 +282,7 @@ Feel free to explore and suggest improvements.
 | [0232-implement-queue-using-stacks](https://github.com/vedha-333/DSA-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0394-decode-string) |
+| [0844-backspace-string-compare](https://github.com/vedha-333/DSA-LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -442,4 +445,8 @@ Feel free to explore and suggest improvements.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/vedha-333/DSA-LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/vedha-333/DSA-LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
