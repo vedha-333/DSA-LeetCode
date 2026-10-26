@@ -139,6 +139,7 @@ Feel free to explore and suggest improvements.
 | [0344-reverse-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0680-valid-palindrome-ii](https://github.com/vedha-333/DSA-LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/vedha-333/DSA-LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -155,6 +156,7 @@ Feel free to explore and suggest improvements.
 | [0394-decode-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0394-decode-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0567-permutation-in-string](https://github.com/vedha-333/DSA-LeetCode/tree/master/0567-permutation-in-string) |
+| [0680-valid-palindrome-ii](https://github.com/vedha-333/DSA-LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/vedha-333/DSA-LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -232,6 +234,7 @@ Feel free to explore and suggest improvements.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/vedha-333/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/vedha-333/DSA-LeetCode/tree/master/0621-task-scheduler) |
+| [0680-valid-palindrome-ii](https://github.com/vedha-333/DSA-LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
