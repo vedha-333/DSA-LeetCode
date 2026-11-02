@@ -99,6 +99,7 @@ Feel free to explore and suggest improvements.
 | [0918-maximum-sum-circular-subarray](https://github.com/vedha-333/DSA-LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/vedha-333/DSA-LeetCode/tree/master/0994-rotting-oranges) |
 | [1480-running-sum-of-1d-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/vedha-333/DSA-LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vedha-333/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -141,6 +142,7 @@ Feel free to explore and suggest improvements.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/vedha-333/DSA-LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/vedha-333/DSA-LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/vedha-333/DSA-LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 | Problem Name | Difficulty |
@@ -197,6 +199,7 @@ Feel free to explore and suggest improvements.
 | [0347-top-k-frequent-elements](https://github.com/vedha-333/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vedha-333/DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0912-sort-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/vedha-333/DSA-LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +225,7 @@ Feel free to explore and suggest improvements.
 | [0621-task-scheduler](https://github.com/vedha-333/DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0706-design-hashmap](https://github.com/vedha-333/DSA-LeetCode/tree/master/0706-design-hashmap) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/vedha-333/DSA-LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
