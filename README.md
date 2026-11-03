@@ -101,6 +101,7 @@ Feel free to explore and suggest improvements.
 | [1480-running-sum-of-1d-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vedha-333/DSA-LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vedha-333/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/vedha-333/DSA-LeetCode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +145,7 @@ Feel free to explore and suggest improvements.
 | [0844-backspace-string-compare](https://github.com/vedha-333/DSA-LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vedha-333/DSA-LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vedha-333/DSA-LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/vedha-333/DSA-LeetCode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +202,7 @@ Feel free to explore and suggest improvements.
 | [0621-task-scheduler](https://github.com/vedha-333/DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/vedha-333/DSA-LeetCode/tree/master/0912-sort-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vedha-333/DSA-LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/vedha-333/DSA-LeetCode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,6 +229,7 @@ Feel free to explore and suggest improvements.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vedha-333/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0706-design-hashmap](https://github.com/vedha-333/DSA-LeetCode/tree/master/0706-design-hashmap) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vedha-333/DSA-LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/vedha-333/DSA-LeetCode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
